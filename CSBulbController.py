@@ -1,7 +1,4 @@
-import pywizlight
 import time
-from pywizlight.bulb import wizlight, PilotBuilder, discovery
-import asyncio
 from PIL import ImageGrab
 from PIL import Image
 import socket
